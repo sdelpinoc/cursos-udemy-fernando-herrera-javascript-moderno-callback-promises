@@ -3,3 +3,11 @@ body {
     color: aliceblue;
     font-family: sans-serif;
 }
+
+h1 {
+    color: wheat;
+}
+
+img {
+    width: 300px;
+}
